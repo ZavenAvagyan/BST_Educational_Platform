@@ -107,8 +107,8 @@ src/
 ### Installation & Local Development
 
 ```bash
-git clone https://github.com/<your-username>/bst-quest.git
-cd bst-quest
+git clone [https://github.com/<your-username>/bst-quest.git](https://github.com/ZavenAvagyan/BST_Educational_Platform.git)
+cd BST_Educational_Platform
 npm install
 npm run dev
 ```
